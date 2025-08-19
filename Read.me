@@ -1,0 +1,23 @@
+Ordem Certa - Aplicativo de Ordens de Serviço
+Este é um protótipo de um aplicativo móvel para criar e gerenciar ordens de serviço, desenvolvido como um projeto de faculdade. O objetivo é criar uma ferramenta simples e funcional para pequenas equipes e autônomos.
+
+Status do Projeto: 🚧 Em Desenvolvimento 🚧
+
+Tecnologias Utilizadas
+Frontend (Mobile): React Native (JavaScript)
+
+Backend (API): Python (com Django Rest Framework ou Flask)
+
+Banco de Dados: SQLite
+
+Ordem Certa - Service Order App
+This is a prototype of a mobile application to create and manage service orders, developed as a university project. The goal is to create a simple and functional tool for small teams and freelancers.
+
+Project Status: 🚧 In Development 🚧
+
+Technologies Used
+Frontend (Mobile): React Native (JavaScript)
+
+Backend (API): Python (with Django Rest Framework or Flask)
+
+Database: SQLite
